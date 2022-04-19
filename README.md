@@ -1,2 +1,3 @@
 # Etch-A-Sketch
-The Odin Project
+## The Odin Project
+### [Live](https://artanmerko.github.io/Etch-A-Sketch/)
